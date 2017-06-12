@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<responsemessage>
+    <result>1</result>
+    <resultbody>
+
+        <item>
+            <textColor>#50bc31</textColor>
+            <backgroundColor>clearColor</backgroundColor>
+            <fontsize>12</fontsize>
+            <textAlignment>
+                <textColor>#50bc31</textColor>
+                <backgroundColor>clearColor</backgroundColor>
+                <fontsize></fontsize>
+            </textAlignment>
+        </item>
+
+        <item skinTarget="UIView" skinType="conform_order_button_back_view" description="确认订单按钮背景view">
+            <backgroundColor>#ff7214</backgroundColor>
+        </item>
+    </resultbody>
+    <resultbody>
+        
+        <item>
+            <textColor>#50bc31</textColor>
+            <backgroundColor>clearColor</backgroundColor>
+            <fontsize>12</fontsize>
+            <textAlignment>
+                <textColor>#50bc31</textColor>
+                <backgroundColor>clearColor</backgroundColor>
+                <fontsize></fontsize>
+            </textAlignment>
+        </item>
+        
+        <item skinTarget="UIView" skinType="conform_order_button_back_view" description="确认订单按钮背景view">
+            <backgroundColor>#ff7214</backgroundColor>
+        </item>
+    </resultbody>
+    <resultbody>
+        
+        <item>
+            <textColor>#50bc31</textColor>
+            <backgroundColor>clearColor</backgroundColor>
+            <fontsize>12</fontsize>
+            <textAlignment>
+                <textColor>#50bc31</textColor>
+                <backgroundColor>clearColor</backgroundColor>
+                <fontsize></fontsize>
+            </textAlignment>
+        </item>
+        
+        <item skinTarget="UIView" skinType="conform_order_button_back_view" description="确认订单按钮背景view">
+            <backgroundColor>#ff7214</backgroundColor>
+        </item>
+    </resultbody>
+</responsemessage>
